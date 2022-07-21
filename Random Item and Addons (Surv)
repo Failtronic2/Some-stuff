@@ -1,0 +1,118 @@
+$name : Random Survivor Item and Addons
+$author : one
+$description : Pick a random item and addons...
+$picture : https://cdn.discordapp.com/attachments/563269326392786944/999564411029172284/medkit.png
+$amount : 1
+$button : PLEASE
+
+$medadds
+Refined Serum
+Anti-Hemorrhagic Syringe
+Styptic Agent
+Abdominal Dressing
+Gel Dressings
+Surgical Suture
+Gauze Roll
+Medical Scissors
+Needle & Thread
+Self Adherent Wrap
+Sponge
+Bandages
+Butterfly Tape
+Rubber Gloves
+
+$medkits
+All Hallows' Eve Lunchbox with [medadds] and [medadds]
+Anniversary Med-Kit with [medadds] and [medadds]
+Masquerade Med-Kit with [medadds] and [medadds]
+Ranger Med-Kit with [medadds] and [medadds]
+Emergency Med-Kit with [medadds] and [medadds]
+First Aid Kit with [medadds] and [medadds]
+Camping Aid Kit with [medadds] and [medadds]
+
+$tooladds
+Brand New Part
+Grip Wrench
+Hacksaw
+Cutting Wire
+Protective Gloves
+Socket Swivels
+Spring Clamp
+Wire Spool
+Clean Rag
+Instructions
+Scraps
+
+$toolboxes
+Anniversary Toolbox with [tooladds] and [tooladds]
+Festive Toolbox with [tooladds] and [tooladds]
+Masquerade Toolbox with [tooladds] and [tooladds]
+Alex's Toolbox with [tooladds] and [tooladds]
+Engineer's Toolbox with [tooladds] and [tooladds]
+Commodious Toolbox with [tooladds] and [tooladds]
+Mechanic's Toolbox with [tooladds] and [tooladds]
+Toolbox with [tooladds] and [tooladds]
+Worn-Out Tools with [tooladds] and [tooladds]
+
+$flashadds
+Broken Bulb
+Odd Bulb
+High-End Sapphire Lens
+Intense Halogen
+Long Life Battery
+Focus Lens
+Heavy Duty Battery
+Low Amp Filament
+Rubber Grip
+Tir Optic
+Battery
+Leather Grip
+Power Bulb
+Wide Lens
+
+$flashlights
+Anniversary Flashlight with [flashadds] and [flashadds]
+Masquerade Flashlight with [flashadds] and [flashadds]
+Will o' Wisp with [flashadds] and [flashadds]
+Utility Flashlight with [flashadds] and [flashadds]
+Sport Flashlight with [flashadds] and [flashadds]
+Flashlight with [flashadds] and [flashadds]
+
+$firecrackers
+Chinese Firecracker
+Third Year Party Starter
+Winter Party Starter
+
+$mapadds
+Crystal Bead
+Black Silk Cord
+Odd Stamp
+Glass Bead
+Red Twine
+Retardant Jelly
+Unusual Stamp
+Yellow Wire
+Map Addendum
+
+$maps
+Rainbow Map with [mapadds] and [mapadds]
+Map with [mapadds] and [mapadds]
+
+$keyadds
+Blood Amber
+Milky Glass
+Unique Wedding Ring
+Weaved Ring
+Gold Token
+Eroded Token
+Prayer Beads
+Scratched Pearl
+Prayer Rope
+
+$keys
+Skeleton Key with [keyadds] and [keyadds]
+Dull Key with [keyadds] and [keyadds]
+Broken Key with [keyadds] and [keyadds]
+
+$phrase
+Your item is [[medkits]|[toolboxes]|[flashlights]|[firecrackers]|[maps]|[keys]].
